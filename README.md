@@ -1,1 +1,1 @@
-# Data-caling-normalizing-python
+# Data-scaling-normalizing-python
