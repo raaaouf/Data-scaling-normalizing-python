@@ -1,13 +1,6 @@
 # code by Raouf Zoghbi
 
 
-
-
-
-
-
-
-
 # modules we'll use
 import pandas as pd , numpy as np
 
